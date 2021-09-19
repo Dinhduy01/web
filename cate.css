@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    height: 100px;
+
+}
+
+ul {
+    display: flex;
+    margin-left: 700px;
+}
+
+a.menu-home {
+    text-decoration: none;
+    color: violet;
+}
+
+
+
+.menu-left img {
+    width: 200px;
+    height: 80 px;
+    padding-left: 100px;
+    padding: 10px 10px 10px 80px;
+}
+
+.menu-right li {
+    display: inline-block;
+
+    padding-top: 40px;
+    padding-right: 30px;
+    justify-content: center;
+
+}
+
+.menu-food-1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+
+.pizza {
+    margin-left: 200px;
+
+}
+
+.menu-food-1.pizza-v {
+    margin-top: 20px;
+
+
+}
+
+.menu-food-1.burger {
+    margin-top: 20px;
+}
+
+.menu-food-1.momo {
+    margin-top: 20px;
+}
+
+.socials {
+    position: absolute;
+
+}
+
+.btn-with-img {
+    margin-top: 20px;
+
+
+}
+
+.fab.fa-facebook {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+    color: blue;
+}
+
+.fab.fa-google {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 20px;
+    color: blue;
+}
+
+.fab.fa-twitter {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 20px;
+    color: blue;
+}
+
+.policy-text {
+    position: absolute;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 620px;
+}
+
+.policy-link {
+    text-decoration: none;
+    color: orange;
+}
+.text-food{
+    position:absolute;
+    margin-top: 110px;
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.img-food-s{
+    border-radius: 10px;
+}

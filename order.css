@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    height: 100px;
+
+}
+
+ul {
+    display: flex;
+    margin-left: 700px;
+}
+
+a.menu-home {
+    text-decoration: none;
+    color: violet;
+}
+
+
+
+.menu-left img {
+    width: 200px;
+    height: 80 px;
+    padding-left: 100px;
+    padding: 10px 10px 10px 80px;
+}
+
+.menu-right li {
+    display: inline-block;
+
+    padding-top: 40px;
+    padding-right: 30px;
+    justify-content: center;
+
+}
+
+.order-bg {
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    margin-left: 700px;
+
+}
+
+.select-food {
+    border: white;
+    border-width: 2px;
+    border-style: solid;
+    position: absolute;
+    margin-left: 730px;
+    margin-top: 80px;
+    padding: 10px 0 0 10px;
+    border-radius: 5px;
+
+
+
+}
+
+.key-1 {
+    margin-left: 750px;
+    position: absolute;
+    margin-top: 65px;
+    font-size: 15px;
+    background-image: url("image/bg.jpg");
+}
+
+.p-1 {
+    position: absolute;
+   
+    margin-top: 90px;
+    margin-left: 870px;
+
+}
+.img-food{
+    border-radius: 15px;
+}
+.btn-with-img{
+    margin-top: 20px;
+   
+     
+   }
+   .fab.fa-facebook{
+       position: absolute;
+       margin-left: 750px;
+       margin-top: 20px;
+       color: blue;
+   }
+   .fab.fa-google{
+       position: absolute;
+       margin-left: 800px;
+       margin-top: 20px;
+       color: blue;
+   }
+   .fab.fa-twitter{
+       position: absolute;
+       margin-left: 850px;
+       margin-top: 20px;
+       color: blue;
+   }
+   .policy-text{
+       position: absolute;
+       text-align: center;
+       margin-top: 50px;
+       margin-left: 670px;
+   }
+   .policy-link{
+       text-decoration: none;
+       color: orange;
+   }
+   .p-1-num{
+       position: absolute;
+       margin-top: 20px;
+       width: 100px;
+       text-align: right;
+       height: 25px;
+       border-radius: 10px;
+   }
+   .input-info{
+       border: white;
+       border-style: solid;
+       border-width: 2px;
+       position: absolute;
+       margin-top: 250px;
+       margin-left: 730px;
+       border-radius: 5px;
+   }
+   .input-info-v{
+       padding-left: 20px;
+       padding-top: 10px;
+       
+
+   }
+   .input-info-b{
+       border-radius: 8px;
+       height: 25px;
+       padding-left: 10px;
+   }
+   .input-info-b.add{
+    height: 70px;
+   
+   
+   }
+   .key-2{
+    margin-left: 750px;
+   
+    position: absolute;
+    margin-bottom: 300px;
+    font-size: 15px;
+    background-image: url("image/bg.jpg");
+    margin-top: 240px;
+
+   }
+   .confirm-btn.a{
+       padding: 10px 0 0 20px;
+   }
+   .confirm-btn.btn{
+       border-radius: 5px;
+       cursor: pointer;
+   }
+
